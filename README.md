@@ -2,4 +2,4 @@
 Advanced Discord dashboard of different pages.
 
 
-# Demo: https://Discord-Bot-Website.gamingdiwas.repl.co
+# Demo: https://discord-bot-website.aryancraft.repl.co
